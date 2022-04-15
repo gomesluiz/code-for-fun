@@ -5,6 +5,6 @@ Software programming is a funny activity, at least for me ;-). If you visit this
 * [pick_peaks.py](./codewars/pick_peaks.py)
 
 ## Hacker rank
-* [coordinate_permutation](./hackerrank/coordinate_permutation.py)
+* [coordinate_permutation.py](./hackerrank/coordinate_permutation.py)
 
 ## Algoritmhs
