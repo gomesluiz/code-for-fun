@@ -1,4 +1,6 @@
 def pick_peaks(arr):
+
+
     """Find all local maxima in the arr.
 
     An element A[i] is defined as a local maxima if 
@@ -13,9 +15,7 @@ def pick_peaks(arr):
         A dictionary of positions and values 
             of local maximas.
     """
-    
-    pos = []
-    peaks = []
+    pos, peaks = [], []
     arr_len = len(arr) - 1 
     for i in range(1, arr_len):
         if arr[i] > arr[i-1] and arr[i] > arr[i+1]:
@@ -24,9 +24,7 @@ def pick_peaks(arr):
               # check for plateaus.
               j = i + 1
               while(arr[i] == arr[j]) and (j < arr_len): j = j + 1 
-              if (arr[i] > arr[j]):    
-                pos.append(i)
-
+              if (arr[i] > arr[j]): pos.append(i)
 
     return {'pos':pos, 'peaks':[[arr[i] for i in pos]]}
     
