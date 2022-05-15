@@ -1,0 +1,548 @@
+<?xml version="1.0"?>
+<minder version="1.14.0" parent-etag="1951011945" etag="551890851">
+  <theme name="dark" label="Dark" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="-1667.2986783454762" y="-568.18971673696342" scale="0.36961451247165522"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="1273.8711656441724" posy="843.00000000000023" width="249" height="78" side="left" fold="false" treesize="1764.0000000000009" layout="To right" group="false">
+      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="6" nodefill="true" nodemargin="12" nodepadding="17" nodefont="Fira Sans 12" nodemarkup="true"/>
+      <nodename posx="1302.8711656441724" posy="872.00000000000023" maxwidth="200">
+        <text data="Documenting Python Code"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="3" posx="1622.8711656441724" posy="24.500000000000227" width="70" height="49" side="right" fold="false" treesize="98.000000000000227" color="#c6262e" colorroot="false" layout="To right" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1636.8711656441724" posy="38.500000000000227" maxwidth="200">
+            <text data="What?"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="4" posx="1792.8711656441724" posy="-2.2737367544323206e-13" width="134" height="49" side="right" fold="false" treesize="49" color="#c6262e" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1806.8711656441724" posy="13.999999999999773" maxwidth="200">
+                <text data="Commenting"/>
+              </nodename>
+              <nodenote>- In general, commenting is describing you code to/for developers and maintainers. 
+- "Code tell you how; Comments tell you why. -- Jeff Atwood (aka Coding Horror)" 
+- According to PEP 8, comments should have a maximum length 72 characte
+</nodenote>
+            </node>
+            <node id="5" posx="1792.8711656441724" posy="49" width="138" height="49" side="right" fold="false" treesize="49" color="#c6262e" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1806.8711656441724" posy="63" maxwidth="200">
+                <text data="Documenting"/>
+              </nodename>
+              <nodenote>Documenting code is descibing its use and functionality to you users. While it may be helpful in the development process, the main intended audience is the users.</nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="7" posx="1622.8711656441724" posy="318.5" width="74" height="49" side="right" fold="false" treesize="490" color="#68b723" colorroot="true" layout="To right" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1636.8711656441724" posy="332.5" maxwidth="200">
+            <text data="When?"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="9" posx="1796.8711656441724" posy="171.5" width="118" height="49" side="right" fold="false" treesize="196" color="#68b723" colorroot="true" layout="To right" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1810.8711656441724" posy="185.5" maxwidth="200">
+                <text data="Commenting"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="15" posx="2014.8711656441724" posy="98" width="194" height="49" side="right" fold="false" treesize="49" color="#68b723" colorroot="true" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2028.8711656441724" posy="112" maxwidth="200">
+                    <text data="Algorithm description"/>
+                  </nodename>
+                  <nodenote>It can be useful to explain how the algorithm works, how it's implemented within your code or describe why a specific algorithm was selected over another.</nodenote>
+                </node>
+                <node id="14" posx="2014.8711656441724" posy="147" width="160" height="49" side="right" fold="false" treesize="49" color="#68b723" colorroot="true" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2028.8711656441724" posy="161" maxwidth="200">
+                    <text data="Code description"/>
+                  </nodename>
+                  <nodenote>It can be used to explain the intent of  specific sections of code.</nodenote>
+                </node>
+                <node id="13" posx="2014.8711656441724" posy="196" width="187" height="49" side="right" fold="false" treesize="49" color="#68b723" colorroot="true" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2028.8711656441724" posy="210" maxwidth="200">
+                    <text data="Planning and Review"/>
+                  </nodename>
+                  <nodenote>When you are developing new portions of your code.
+</nodenote>
+                </node>
+                <node id="16" posx="2014.8711656441724" posy="245" width="99" height="49" side="right" fold="false" treesize="49" color="#68b723" colorroot="true" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2028.8711656441724" posy="259" maxwidth="200">
+                    <text data="Tagging"/>
+                  </nodename>
+                  <nodenote>It can be used to label specific sections od code where known issues or areas of improvement are located: BUG, FIXME and TODO.</nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="11" posx="1796.8711656441724" posy="416.5" width="122" height="49" side="right" fold="false" treesize="294" color="#68b723" colorroot="true" layout="To right" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1810.8711656441724" posy="430.5" maxwidth="200">
+                <text data="Documenting"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="30" posx="2018.8711656441724" posy="294" width="88" height="49" side="right" fold="false" treesize="49" color="#68b723" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2032.8711656441724" posy="308" maxwidth="200">
+                    <text data="Function"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="31" posx="2018.8711656441724" posy="343" width="63" height="49" side="right" fold="false" treesize="49" color="#68b723" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2032.8711656441724" posy="357" maxwidth="200">
+                    <text data="Class"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="32" posx="2018.8711656441724" posy="392" width="121" height="49" side="right" fold="false" treesize="49" color="#68b723" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2032.8711656441724" posy="406" maxwidth="200">
+                    <text data="Class method"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="33" posx="2018.8711656441724" posy="440.99999999999977" width="80" height="49" side="right" fold="false" treesize="49" color="#68b723" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2032.8711656441724" posy="454.99999999999977" maxwidth="200">
+                    <text data="Module"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="34" posx="2018.8711656441724" posy="489.99999999999977" width="85" height="49" side="right" fold="false" treesize="49" color="#68b723" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2032.8711656441724" posy="503.99999999999977" maxwidth="200">
+                    <text data="Package"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="35" posx="2018.8711656441724" posy="538.99999999999977" width="67" height="49" side="right" fold="false" treesize="49" color="#68b723" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2032.8711656441724" posy="552.99999999999977" maxwidth="200">
+                    <text data="Script"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="1" posx="1622.8711656441724" posy="612.49999999999977" width="82" height="49" side="right" fold="false" treesize="98" color="#7a36b1" colorroot="true" layout="To right" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1636.8711656441724" posy="626.49999999999977" maxwidth="200">
+            <text data="Who?"/>
+          </nodename>
+          <nodenote>Developers and maintainers.</nodenote>
+          <nodes>
+            <node id="28" posx="1804.8711656441724" posy="587.99999999999977" width="98" height="49" side="right" fold="false" treesize="49" color="#7a36b1" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1818.8711656441724" posy="601.99999999999977" maxwidth="200">
+                <text data="Developer"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="29" posx="1804.8711656441724" posy="636.99999999999977" width="102" height="49" side="right" fold="false" treesize="49" color="#7a36b1" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1818.8711656441724" posy="650.99999999999977" maxwidth="200">
+                <text data="Maintainer"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="2" posx="1622.8711656441724" posy="685.99999999999977" width="81" height="49" side="right" fold="false" treesize="49" color="#f37329" colorroot="false" layout="To right" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1636.8711656441724" posy="699.99999999999977" maxwidth="200">
+            <text data="Why?"/>
+          </nodename>
+          <nodenote>- Code is more often read than written.
+- It doesn't matter how good your software is, because if the documentation in not good, people will not use it.</nodenote>
+        </node>
+        <node id="17" posx="1622.8711656441724" posy="1225" width="66" height="49" side="right" fold="false" treesize="1029.0000000000009" color="#3689e6" colorroot="true" layout="To right" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1636.8711656441724" posy="1239" maxwidth="200">
+            <text data="How?"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="24" posx="1788.8711656441724" posy="857.49999999999989" width="118" height="49" side="right" fold="false" treesize="294" color="#3689e6" colorroot="true" layout="To right" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1802.8711656441724" posy="871.49999999999989" maxwidth="200">
+                <text data="Commenting"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="18" posx="2006.8711656441719" posy="832.99999999999989" width="85" height="49" side="right" fold="false" treesize="245" color="#3689e6" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2020.8711656441719" posy="846.99999999999989" maxwidth="200">
+                    <text data="Purpose"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="20" posx="2191.8711656441728" posy="734.99999999999989" width="194" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2205.8711656441728" posy="748.99999999999989" maxwidth="200">
+                        <text data="Algorithm description"/>
+                      </nodename>
+                      <nodenote># Using quick sort for peformance gains.</nodenote>
+                    </node>
+                    <node id="21" posx="2191.8711656441728" posy="783.99999999999989" width="160" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2205.8711656441728" posy="797.99999999999989" maxwidth="200">
+                        <text data="Code description"/>
+                      </nodename>
+                      <nodenote># Attempt a conection based on previous settings. If unsuccesful,
+# prompt user for new settings</nodenote>
+                    </node>
+                    <node id="22" posx="2191.8711656441728" posy="832.99999999999989" width="184" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2205.8711656441728" posy="846.99999999999989" maxwidth="200">
+                        <text data="Planning and review"/>
+                      </nodename>
+                      <nodenote># First step.
+# Second step.
+# Third step.</nodenote>
+                    </node>
+                    <node id="23" posx="2191.8711656441728" posy="881.99999999999977" width="99" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2205.8711656441728" posy="895.99999999999977" maxwidth="200">
+                        <text data="Tagging"/>
+                      </nodename>
+                      <nodenote># TODO: Add condition for when val is None.</nodenote>
+                    </node>
+                    <node id="26" posx="2191.8711656441728" posy="930.99999999999977" width="230" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2205.8711656441728" posy="944.99999999999977" maxwidth="200">
+                        <text data="Type hinting (Phython 3.5+)"/>
+                      </nodename>
+                      <nodenote>def hello_name(name: str) -&gt; str:
+        return</nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="25" posx="2006.8711656441719" posy="979.99999999999977" width="81" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2020.8711656441719" posy="993.99999999999977" maxwidth="200">
+                    <text data="Rules"/>
+                  </nodename>
+                  <nodenote>1. Keep comments as close to the code being described as possible.
+2. Don't use complex formatting (such as tables or ASCII figures)
+3. Don't include redundant information.
+4. Design your code to comment itself.</nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="19" posx="1788.8711656441724" posy="1372" width="122" height="49" side="right" fold="false" treesize="735.00000000000068" color="#3689e6" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1802.8711656441724" posy="1386" maxwidth="200">
+                <text data="Documenting"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="42" posx="2010.8711656441724" posy="1151.4999999999998" width="85" height="49" side="right" fold="false" treesize="294" color="#3689e6" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2024.8711656441724" posy="1165.4999999999998" maxwidth="200">
+                    <text data="Purpose"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="43" posx="2195.8711656441728" posy="1029.0000000000002" width="104" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2209.8711656441728" posy="1043.0000000000002" maxwidth="200">
+                        <text data="Function"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                      <nodelink id="45" fname="" title=""/>
+                    </node>
+                    <node id="44" posx="2195.8711656441728" posy="1078.0000000000002" width="79" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2209.8711656441728" posy="1092.0000000000002" maxwidth="200">
+                        <text data="Class"/>
+                      </nodename>
+                      <nodenote>class  Animal:
+    """
+    A class used to represent an Analimal
+    
+    
+     Attributes
+    ----------
+    says_str : str
+        a formatted string to print out what the animal says
+    name : str
+        the name of the animal
+    sound : str
+        the sound that the animal makes
+    num_legs : int
+        the number of legs the animal has (default 4)
+
+    Methods
+    -------
+    says(sound=None)
+        Prints the animals name and what sound it makes
+    """</nodenote>
+                    </node>
+                    <node id="45" posx="2195.8711656441728" posy="1127.0000000000002" width="137" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2209.8711656441728" posy="1141.0000000000002" maxwidth="200">
+                        <text data="Class method"/>
+                      </nodename>
+                      <nodenote>class Animal:
+    """
+    ...
+    """
+
+    says_str = "A {name} says {sound}"
+
+    def __init__(self, name, sound, num_legs=4):
+        """
+        Parameters
+        ----------
+        name : str
+            The name of the animal
+        sound : str
+            The sound the animal makes
+        num_legs : int, optional
+            The number of legs the animal (default is 4)
+        """
+        ...
+        
+ def says(self, sound=None):
+        """Prints what the animals name is and what sound it makes.
+
+        If the argument `sound` isn't passed in, the default Animal
+        sound is used.
+
+        Parameters
+        ----------
+        sound : str, optional
+            The sound the animal makes (default is None)
+
+        Raises
+        ------
+        NotImplementedError
+            If no sound is set for the animal or passed in as a
+            parameter.
+        """    </nodenote>
+                    </node>
+                    <node id="46" posx="2195.8711656441728" posy="1176" width="96" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2209.8711656441728" posy="1190" maxwidth="200">
+                        <text data="Module"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                      <nodelink id="48" fname="" title=""/>
+                    </node>
+                    <node id="47" posx="2195.8711656441728" posy="1225" width="101" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2209.8711656441728" posy="1239" maxwidth="200">
+                        <text data="Package"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                      <nodelink id="48" fname="" title=""/>
+                    </node>
+                    <node id="48" posx="2195.8711656441728" posy="1274" width="83" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2209.8711656441728" posy="1288" maxwidth="200">
+                        <text data="Script"/>
+                      </nodename>
+                      <nodenote>"""Spreadsheet Column Printer
+
+This script allows the user to print to the console all columns in the
+spreadsheet. It is assumed that the first row of the spreadsheet is the
+location of the columns.
+
+This tool accepts comma separated value files (.csv) as well as excel
+(.xls, .xlsx) files.
+
+This script requires that `pandas` be installed within the Python
+environment you are running this script in.
+
+This file can also be imported as a module and contains the following
+functions:
+
+    * get_spreadsheet_cols - returns the column headers of the file
+    * main - the main function of the script
+"""</nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="49" posx="2010.8711656441724" posy="1396.5" width="85" height="49" side="right" fold="false" treesize="196" color="#3689e6" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2024.8711656441724" posy="1410.5" maxwidth="200">
+                    <text data="Formats"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="50" posx="2195.8711656441728" posy="1323" width="94" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2209.8711656441728" posy="1337" maxwidth="200">
+                        <text data="Google"/>
+                      </nodename>
+                      <nodenote>"""Gets and prints the spreadsheet's header columns
+
+Args:
+    file_loc (str): The file location of the spreadsheet
+    print_cols (bool): A flag used to print the columns to the console
+        (default is False)
+
+Returns:
+    list: a list of strings representing the header columns
+"""</nodenote>
+                    </node>
+                    <node id="51" posx="2195.8711656441728" posy="1372" width="130" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2209.8711656441728" posy="1386" maxwidth="200">
+                        <text data="reStructured"/>
+                      </nodename>
+                      <nodenote>"""Gets and prints the spreadsheet's header columns
+
+:param file_loc: The file location of the spreadsheet
+:type file_loc: str
+:param print_cols: A flag used to print the columns to the console
+    (default is False)
+:type print_cols: bool
+:returns: a list of strings representing the header columns
+:rtype: list
+"""</nodenote>
+                    </node>
+                    <node id="52" posx="2195.8711656441728" posy="1421" width="134" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2209.8711656441728" posy="1435" maxwidth="200">
+                        <text data="Numpy/Scipy"/>
+                      </nodename>
+                      <nodenote>"""Gets and prints the spreadsheet's header columns
+
+Parameters
+----------
+file_loc : str
+    The file location of the spreadsheet
+print_cols : bool, optional
+    A flag used to print the columns to the console (default is False)
+
+Returns
+-------
+list
+    a list of strings representing the header columns
+"""</nodenote>
+                    </node>
+                    <node id="53" posx="2195.8711656441728" posy="1470" width="94" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2209.8711656441728" posy="1484" maxwidth="200">
+                        <text data="Epytext"/>
+                      </nodename>
+                      <nodenote>"""Gets and prints the spreadsheet's header columns
+
+@type file_loc: str
+@param file_loc: The file location of the spreadsheet
+@type print_cols: bool
+@param print_cols: A flag used to print the columns to the console
+    (default is False)
+@rtype: list
+@returns: a list of strings representing the header columns
+"""</nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="54" posx="2010.8711656441724" posy="1568" width="76" height="49" side="right" fold="false" treesize="147" color="#3689e6" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2024.8711656441724" posy="1582" maxwidth="200">
+                    <text data="Project"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="55" posx="2186.8711656441728" posy="1519" width="91" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2200.8711656441728" posy="1533" maxwidth="200">
+                        <text data="Private"/>
+                      </nodename>
+                      <nodenote>- 0 Readme: A brief summary of the project and its purpose. Include any special requirements for installation or operating the project.
+- examples.py: A Python script file that gives simple examples of how to use the project.
+</nodenote>
+                    </node>
+                    <node id="56" posx="2186.8711656441728" posy="1568" width="92" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2200.8711656441728" posy="1582" maxwidth="200">
+                        <text data="Shared"/>
+                      </nodename>
+                      <nodenote>- Readme: A brief summary of the project and its purpose. Include any special requirements for installing or operating the project. Additionally, add any major changes since the previous version.
+- examples.py: A Python script file that gives simple examples of how to use the projects.
+- How to Contribute: This should include how new contributors to the project can start contributing.
+</nodenote>
+                    </node>
+                    <node id="57" posx="2186.8711656441728" posy="1617" width="147" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2200.8711656441728" posy="1631" maxwidth="200">
+                        <text data="Public and OSS"/>
+                      </nodename>
+                      <nodenote>Readme: A brief summary of the project and its purpose. Include any special requirements for installing or operating the projects. Additionally, add any major changes since the previous version. Finally, add links to further documentation, bug reporting, and any other important information for the project. Dan Bader has put together a great tutorial on what all should be included in your readme.
+
+How to Contribute: This should include how new contributors to the project can help. This includes developing new features, fixing known issues, adding documentation, adding new tests, or reporting issues.
+
+Code of Conduct: Defines how other contributors should treat each other when developing or using your software. This also states what will happen if this code is broken. If you&#x2019;re using Github, a Code of Conduct template can be generated with recommended wording. For Open Source projects especially, consider adding this.
+
+License: A plaintext file that describes the license your project is using. For Open Source projects especially, consider adding this.
+
+docs: A folder that contains further documentation. The next section describes more fully what should be included and how to organize the contents of this folder.</nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="59" posx="2010.8711656441724" posy="1666.0000000000005" width="88" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2024.8711656441724" posy="1680.0000000000005" maxwidth="200">
+                    <text data="Folder"/>
+                  </nodename>
+                  <nodenote>Tutorials: Lessons that take the reader by the hand through a series of steps to complete a project (or meaningful exercise). Geared towards the user&#x2019;s learning.
+How-To Guides: Guides that take the reader through the steps required to solve a common problem (problem-oriented recipes).
+References: Explanations that clarify and illuminate a particular topic. Geared towards understanding.
+Explanations: Technical descriptions of the machinery and how to operate it (key classes, functions, APIs, and so forth). Think Encyclopedia article.</nodenote>
+                </node>
+                <node id="60" posx="2010.8711656441724" posy="1715.0000000000005" width="184" height="49" side="right" fold="false" treesize="49" color="#3689e6" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2024.8711656441724" posy="1729.0000000000005" maxwidth="200">
+                    <text data="Tools and Resources"/>
+                  </nodename>
+                  <nodenote>Tool	        Description
+
+Sphinx	    A collection of tools to auto-generate documentation in multiple formats
+
+Epydoc	    A tool for generating API documentation for Python modules based on their docstrings
+
+Read The Docs	Automatic building, versioning, and hosting of your docs for you
+
+Doxygen	A tool for generating documentation that supports Python as well as multiple other languages
+
+MkDocs	   A static site generator to help build project documentation using the Markdown language
+
+pycco	        A &#x201C;quick and dirty&#x201D; documentation generator that displays code and documentation side by side. Check out our tutorial on how to use it for more info.</nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>
